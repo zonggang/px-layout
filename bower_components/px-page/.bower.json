@@ -1,0 +1,53 @@
+{
+  "name": "px-page",
+  "authors": [
+    "Jonnie Spratley <jonnie.spratley@ge.com>"
+  ],
+  "description": "A web component for a page",
+  "main": "px-pages.html",
+  "keywords": [
+    "px"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~v1.5.0",
+    "fastclick": "latest",
+    "overthrow": "~0.7.1",
+    "px-theme": "~0.7.0",
+    "neon-animation": "PolymerElements/neon-animation#^1.2.3"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#~1.0.5",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.2.3",
+    "px-navbar": "master",
+    "px-responsive-layouts": "master",
+    "px-table-view": "master",
+    "web-component-tester": "~4.2.2"
+  },
+  "resolutions": {
+    "polymer": "~v1.4.0",
+    "px-theme": "~0.7.0",
+    "fetch": "~0.11.0",
+    "polymer-font-awesome": "~0.1.5",
+    "px-drawer": "master",
+    "px-table-view": "master",
+    "px-navbar": "master"
+  },
+  "homepage": "https://github.com/PredixDev/px-page",
+  "_release": "4adeb336d9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4adeb336d9a9368261fd782907ef2eb12c0daac1"
+  },
+  "_source": "https://github.com/PredixDev/px-page.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/PredixDev/px-page.git"
+}
